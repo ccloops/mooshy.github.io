@@ -1,0 +1,38 @@
+* {
+    background-color: gray;
+}
+
+header {
+    background-color: black;
+    color: #FF5344;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    display: block;
+    border-radius: 50%;
+  }
+
+h2   {
+    text-align: center;
+}
+
+p {
+  text-align: center;
+}
+nav {
+  font-size: 18px;
+  float: center;
+}
+nav ul {
+        background-color: #FF5344;
+        height: 10px;
+        width: 100%;
+        padding: 0px;
+        margin: 10;
+        float: left;
+        border-bottom: 1px solid #cccccc;
+        list-style-type: none;
+}
+img {
+  border-radius: 50%;
+}
