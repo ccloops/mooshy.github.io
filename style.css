@@ -24,15 +24,16 @@ nav {
   float: center;
 }
 nav ul {
-        background-color: #FF5344;
-        height: 10px;
-        width: 100%;
-        padding: 0px;
-        margin: 10;
-        float: left;
-        border-bottom: 1px solid #cccccc;
-        list-style-type: none;
+  background-color: #FF5344;
+  height: 10px;
+  width: 100%;
+  padding: 0px;
+  margin: 10;
+  float: left;
+  border-bottom: 1px solid #cccccc;
+  list-style-type: none;
 }
 img {
   border-radius: 50%;
+  max-width: 100%;
 }
